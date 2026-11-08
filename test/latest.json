@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.18",
-  "versionCode": 18,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.18/ChemTutor-Student-0.1.18.apk",
-  "sha256": "8d59e161cf970f03e850f630f60b26f8dc1b8b6e720a97d93ea407eca351396e",
-  "size": 35351026,
-  "notes": "Book text from all six NIE PDFs (Units 1-14 + practical handbook); topic map with Units 11-13 and 45 experiments",
-  "builtAt": "2026-11-08T12:59:49Z"
+  "versionName": "0.1.20",
+  "versionCode": 20,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.20/ChemTutor-Student-0.1.20.apk",
+  "sha256": "ba27bb5a778dc8c98264da41b7aadd14f7ed34a721b69e84283af879d02a54ca",
+  "size": 35344778,
+  "notes": "Books stored as Markdown, one section per subsection; tutor page searches subsections",
+  "builtAt": "2026-11-08T13:25:42Z"
 }
