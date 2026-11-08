@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.25",
+  "versionCode": 25,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.25/ChemTutor-Student-0.1.25.apk",
+  "sha256": "4c42cc8bcc4cb8eb1cb5b402421fb60115bd89e080433075e99b37562979b50a",
+  "size": 36061683,
+  "notes": "Tutor connected: Ask, Quiz, Practise and pad marking call Claude from the phone; QR pairing; Plotly graphs",
+  "builtAt": "2026-11-08T16:43:23Z"
+}
