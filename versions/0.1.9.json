@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.9",
+  "versionCode": 9,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.9/ChemTutor-Student-0.1.9.apk",
+  "sha256": "83b572f55513f505aa117efd4f690d2641db6273260fee737f68f8b26038e3fa",
+  "size": 35162974,
+  "notes": "In-app updates with test and approved channels; fix top bar under the status bar",
+  "builtAt": "2026-11-08T07:40:17Z"
+}
