@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.22",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.22/ChemTutor-Student-0.1.22.apk",
-  "sha256": "3b8d1ac59405033e1b0333ec682d954085914fbd703a720818394162a5846457",
-  "size": 35417205,
-  "notes": "Embed SmilesDrawer: structures drawn offline; Structures page; tutor answers can show structures",
-  "builtAt": "2026-11-08T13:46:28Z"
+  "versionName": "0.1.25",
+  "versionCode": 25,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.25/ChemTutor-Student-0.1.25.apk",
+  "sha256": "4c42cc8bcc4cb8eb1cb5b402421fb60115bd89e080433075e99b37562979b50a",
+  "size": 36061683,
+  "notes": "Tutor connected: Ask, Quiz, Practise and pad marking call Claude from the phone; QR pairing; Plotly graphs",
+  "builtAt": "2026-11-08T16:43:23Z"
 }
