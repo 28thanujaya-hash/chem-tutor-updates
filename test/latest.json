@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.20",
-  "versionCode": 20,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.20/ChemTutor-Student-0.1.20.apk",
-  "sha256": "ba27bb5a778dc8c98264da41b7aadd14f7ed34a721b69e84283af879d02a54ca",
-  "size": 35344778,
-  "notes": "Books stored as Markdown, one section per subsection; tutor page searches subsections",
-  "builtAt": "2026-11-08T13:25:42Z"
+  "versionName": "0.1.21",
+  "versionCode": 21,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.21/ChemTutor-Student-0.1.21.apk",
+  "sha256": "be4607c65ab7fbcdeb8c94281fa50a283e1b8c5ba67e1725e3e472136e2fc284",
+  "size": 35349014,
+  "notes": "Writing Pad: notation palette (bonds, arrows, rings, groups, symbols, state symbols) and formula typing with automatic subscripts",
+  "builtAt": "2026-11-08T13:35:18Z"
 }
