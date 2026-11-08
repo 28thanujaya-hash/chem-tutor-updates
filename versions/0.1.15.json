@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.15",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.15/ChemTutor-Student-0.1.15.apk",
+  "sha256": "3b99992992f6433689fd852dd861a7dfc29772eb2fd68b20ee742dfc994a5bd5",
+  "size": 35194538,
+  "notes": "Build: retry the Gradle download when GitHub releases answer 504",
+  "builtAt": "2026-11-08T09:25:27Z"
+}

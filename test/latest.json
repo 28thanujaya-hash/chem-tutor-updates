@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.11",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.11/ChemTutor-Student-0.1.11.apk",
-  "sha256": "0f9a6e25e513cd6bb9589af86592f94d1e35a13440f3dbaafc474400a2b5ac22",
-  "size": 35187309,
-  "notes": "Listening Lab: record the student's voice and transcribe it on the phone",
-  "builtAt": "2026-11-08T08:38:07Z"
+  "versionName": "0.1.15",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.15/ChemTutor-Student-0.1.15.apk",
+  "sha256": "3b99992992f6433689fd852dd861a7dfc29772eb2fd68b20ee742dfc994a5bd5",
+  "size": 35194538,
+  "notes": "Build: retry the Gradle download when GitHub releases answer 504",
+  "builtAt": "2026-11-08T09:25:27Z"
 }
