@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.10",
-  "versionCode": 10,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.10/ChemTutor-Student-0.1.10.apk",
-  "sha256": "dc66a15541c06ae5f667ce77a6ffed7adaafa710b50141f5ae325b3caab2f410",
-  "size": 35163090,
-  "notes": "Voice Lab: pass sherpa-onnx a real callback class so audio comes back",
-  "builtAt": "2026-11-08T07:56:06Z"
+  "versionName": "0.1.11",
+  "versionCode": 11,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.11/ChemTutor-Student-0.1.11.apk",
+  "sha256": "0f9a6e25e513cd6bb9589af86592f94d1e35a13440f3dbaafc474400a2b5ac22",
+  "size": 35187309,
+  "notes": "Listening Lab: record the student's voice and transcribe it on the phone",
+  "builtAt": "2026-11-08T08:38:07Z"
 }
