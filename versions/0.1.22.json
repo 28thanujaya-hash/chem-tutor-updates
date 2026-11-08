@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.22",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.22/ChemTutor-Student-0.1.22.apk",
+  "sha256": "3b8d1ac59405033e1b0333ec682d954085914fbd703a720818394162a5846457",
+  "size": 35417205,
+  "notes": "Embed SmilesDrawer: structures drawn offline; Structures page; tutor answers can show structures",
+  "builtAt": "2026-11-08T13:46:28Z"
+}

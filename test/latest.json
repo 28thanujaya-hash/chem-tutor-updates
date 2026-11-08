@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.21",
-  "versionCode": 21,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.21/ChemTutor-Student-0.1.21.apk",
-  "sha256": "be4607c65ab7fbcdeb8c94281fa50a283e1b8c5ba67e1725e3e472136e2fc284",
-  "size": 35349014,
-  "notes": "Writing Pad: notation palette (bonds, arrows, rings, groups, symbols, state symbols) and formula typing with automatic subscripts",
-  "builtAt": "2026-11-08T13:35:18Z"
+  "versionName": "0.1.22",
+  "versionCode": 22,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.22/ChemTutor-Student-0.1.22.apk",
+  "sha256": "3b8d1ac59405033e1b0333ec682d954085914fbd703a720818394162a5846457",
+  "size": 35417205,
+  "notes": "Embed SmilesDrawer: structures drawn offline; Structures page; tutor answers can show structures",
+  "builtAt": "2026-11-08T13:46:28Z"
 }
