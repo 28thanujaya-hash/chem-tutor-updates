@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.10",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.10/ChemTutor-Student-0.1.10.apk",
+  "sha256": "dc66a15541c06ae5f667ce77a6ffed7adaafa710b50141f5ae325b3caab2f410",
+  "size": 35163090,
+  "notes": "Voice Lab: pass sherpa-onnx a real callback class so audio comes back",
+  "builtAt": "2026-11-08T07:56:06Z"
+}
