@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.24",
+  "versionCode": 24,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.24/ChemTutor-Student-0.1.24.apk",
+  "sha256": "70c1e836f6619985006d4ff2d3fea9b572746adf16717c4ae90c7d2d93374bb1",
+  "size": 35417745,
+  "notes": "New tutor screens: Home, Units, Topic, Book, Progress, Me, Practicals; fixed subsection titles",
+  "builtAt": "2026-11-08T14:57:20Z"
+}
