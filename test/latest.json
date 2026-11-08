@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.22",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.22/ChemTutor-Student-0.1.22.apk",
-  "sha256": "3b8d1ac59405033e1b0333ec682d954085914fbd703a720818394162a5846457",
-  "size": 35417205,
-  "notes": "Embed SmilesDrawer: structures drawn offline; Structures page; tutor answers can show structures",
-  "builtAt": "2026-11-08T13:46:28Z"
+  "versionName": "0.1.23",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.23/ChemTutor-Student-0.1.23.apk",
+  "sha256": "1811cfd4bfacb115ee3d023e45084be5a257f7fca022acd61977aabecdbd44a1",
+  "size": 35419417,
+  "notes": "Writing Pad: formula bar with live preview and Place; Move tool; library structures in Insert; Structures page 'Use in pad'",
+  "builtAt": "2026-11-08T14:13:54Z"
 }
