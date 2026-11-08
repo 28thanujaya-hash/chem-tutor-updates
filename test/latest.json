@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.17",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.17/ChemTutor-Student-0.1.17.apk",
-  "sha256": "92089f6469aa1b56672ef99ef7f50f72a56400a3a7c11726755d17a014b2bcd8",
-  "size": 35210206,
-  "notes": "Writing Pad: photo pages (camera or gallery) to write on; app opens camera/gallery for pages",
-  "builtAt": "2026-11-08T12:07:01Z"
+  "versionName": "0.1.18",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.18/ChemTutor-Student-0.1.18.apk",
+  "sha256": "8d59e161cf970f03e850f630f60b26f8dc1b8b6e720a97d93ea407eca351396e",
+  "size": 35351026,
+  "notes": "Book text from all six NIE PDFs (Units 1-14 + practical handbook); topic map with Units 11-13 and 45 experiments",
+  "builtAt": "2026-11-08T12:59:49Z"
 }
