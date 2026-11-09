@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.30",
+  "versionCode": 30,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.30/ChemTutor-Student-0.1.30.apk",
+  "sha256": "89b9d9b7e7602dc2b2d31cc39bb67e26223c59ad9b8b09712f37bba977dd77c6",
+  "size": 36067940,
+  "notes": "Consistent look (QA): one line-icon set on every page instead of emoji, two icon sizes, one back-button style; Home without repeated buttons; grade switch only on Units and Me, taller switches; clearer topic header; no empty numbers; matching progress boxes; full-width mark; formatted practical formulas; unit numbers until started; small molecules no longer drawn huge",
+  "builtAt": "2026-11-09T05:17:45Z"
+}
