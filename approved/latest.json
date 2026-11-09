@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.25",
-  "versionCode": 25,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.25/ChemTutor-Student-0.1.25.apk",
-  "sha256": "4c42cc8bcc4cb8eb1cb5b402421fb60115bd89e080433075e99b37562979b50a",
-  "size": 36061683,
-  "notes": "Tutor connected: Ask, Quiz, Practise and pad marking call Claude from the phone; QR pairing; Plotly graphs",
-  "builtAt": "2026-11-08T16:43:23Z"
+  "versionName": "0.1.29",
+  "versionCode": 29,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.29/ChemTutor-Student-0.1.29.apk",
+  "sha256": "7883bc16886323f83577bf986b50d83bcc5d75ad3c1e08592f27bf89203656a7",
+  "size": 36066095,
+  "notes": "Live mic like the Claude app: listens until Stop, writes each piece above the text box (at pauses, or every 12\u201315 s at the quietest moment), sound wave inside the box, Send sends; no pad button in Ask",
+  "builtAt": "2026-11-09T04:38:17Z"
 }
