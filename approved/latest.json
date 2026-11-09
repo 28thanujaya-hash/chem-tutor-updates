@@ -1,9 +1,9 @@
 {
-  "versionName": "0.1.32",
-  "versionCode": 32,
-  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.32/ChemTutor-Student-0.1.32.apk",
-  "sha256": "b2ea687b09a954bba6380c0aa6f9d99cad37849114c6059357143cb94b087bbe",
-  "size": 36070464,
-  "notes": "Pad: top bar fits with big system text (narrower buttons, '1 of 3', then Send as an icon); Insert shows its own icon until a piece is chosen, then the piece in a small box; round buttons smaller and hidden while writing",
-  "builtAt": "2026-11-09T07:26:21Z"
+  "versionName": "0.1.33",
+  "versionCode": 33,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.33/ChemTutor-Student-0.1.33.apk",
+  "sha256": "4d4951b21460fade4d06e0b424f558aadb3795799c84a3586ae03690be34468a",
+  "size": 36181597,
+  "notes": "Report a problem or idea: shake the phone on any screen (picture of the screen attached) or Me \u203a Report; sent through the share sheet with version, phone, screen and recent app errors; the app keeps its last errors and crash for the report",
+  "builtAt": "2026-11-09T09:01:44Z"
 }
