@@ -1,0 +1,9 @@
+{
+  "versionName": "0.1.32",
+  "versionCode": 32,
+  "apkUrl": "https://github.com/28thanujaya-hash/chem-tutor-updates/releases/download/v0.1.32/ChemTutor-Student-0.1.32.apk",
+  "sha256": "b2ea687b09a954bba6380c0aa6f9d99cad37849114c6059357143cb94b087bbe",
+  "size": 36070464,
+  "notes": "Pad: top bar fits with big system text (narrower buttons, '1 of 3', then Send as an icon); Insert shows its own icon until a piece is chosen, then the piece in a small box; round buttons smaller and hidden while writing",
+  "builtAt": "2026-11-09T07:26:21Z"
+}
